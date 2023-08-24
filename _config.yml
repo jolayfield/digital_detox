@@ -1,9 +1,9 @@
-title: Vermicompost
+title: Digital Detox 
 email: jolayfield@gmail.com
-baseurl: "/vermicompost" # the subpath of your site, e.g. /blog
+baseurl: "/digital_detox" # the subpath of your site, e.g. /blog
 url: "https://jolayfield.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jolayfield   
-tagline: A Worm Blog
+tagline: A Compilation of Thoughts 
 author: Joshua Layfield 
 # Build settings
 theme: minima
